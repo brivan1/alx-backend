@@ -1,7 +1,7 @@
 Read or watch:
 
-REST API Design: Pagination
-HATEOAS
+[REST API Design: Pagination](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/#pagination)
+[HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -20,7 +20,7 @@ All your functions should have a documentation (python3 -c 'print(__import__("my
 A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 All your functions and coroutines must be type-annotated.
 Setup: Popular_Baby_Names.csv
-use this data file for your project
+[use this data file](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2020/5/7d3576d97e7560ae85135cc214ffe2b3412c51d7.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T130157Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e659cb57abb5000825edb563c355d0fc0f419593fa7a9fab40fbe526561d561e) for your project
 
 Tasks
 0. Simple helper function
